@@ -1,7 +1,7 @@
 # rustlang-rocket-mongodb
 [![Try it on gitpod](https://img.shields.io/badge/try-on%20gitpod-brightgreen.svg)](https://gitpod.io/#https://github.com/louis030195/rustlang-rocket-mongodb)
 
-Code for the [tutorial]()
+Code for the [tutorial](https://medium.com/@louis.beaumont/rest-api-with-rust-mongodb-10eeb6bd51d7)
 
 ## Installation
 
